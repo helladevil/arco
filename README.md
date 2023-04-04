@@ -1,2 +1,1 @@
-# arco
-globos y arco hecho por helladevil
+# ExplotarGlobos2-plantilla
